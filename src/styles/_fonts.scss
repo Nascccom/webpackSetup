@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url("fonts/montserrat-v23-latin_cyrillic-700.woff") format('woff'),
+  url("fonts/montserrat-v23-latin_cyrillic-700.woff2") format('woff2');
+}
+
+.image {
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  background-image: url('img/methed.jpg');
+}
